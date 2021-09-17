@@ -1,0 +1,672 @@
+{
+    
+    "tips": "type为1是景区   2是设备    设备上面有英文字母  现目前是为了区分哪个是哪条数据",
+    "mapList": [
+        {
+            "type": 1,
+            "x": 119,
+            "y": 253,
+            "title": "贡橘园",
+            "show": false
+        },
+        {
+            "type": 1,
+            "x": 118,
+            "y": 272,
+            "title": "亲子采摘园",
+            "show": false
+        },
+        {
+            "type": 1,
+            "x": 143,
+            "y": 243,
+            "title": "亲子乐园",
+            "show": false
+        },
+        {
+            "type": 1,
+            "x": 139,
+            "y": 269,
+            "title": "夜色游园",
+            "show": false
+        },
+        {
+            "type": 1,
+            "x": 163,
+            "y": 250,
+            "title": "鱼藕园",
+            "show": false
+        },
+        {
+            "type": 1,
+            "x": 168,
+            "y": 267,
+            "title": "生态停车场",
+            "show": false
+        },
+        {
+            "type": 1,
+            "x": 167,
+            "y": 229,
+            "title": "智慧停车场",
+            "show": false
+        },
+        {
+            "type": 1,
+            "x": 175,
+            "y": 235,
+            "title": "餐饮中心",
+            "show": false
+        },
+        {
+            "type": 1,
+            "x": 210,
+            "y": 227,
+            "title": "花海园",
+            "show": false
+        },
+        {
+            "type": 1,
+            "x": 212,
+            "y": 244,
+            "title": "接待中心",
+            "show": false
+        },
+        {
+            "type": 1,
+            "x": 244,
+            "y": 213,
+            "title": "会议中心",
+            "show": false
+        },
+        {
+            "type": 1,
+            "x": 337,
+            "y": 154,
+            "title": "贡橘园",
+            "show": false
+        },
+        {
+            "type": 1,
+            "x": 359,
+            "y": 144,
+            "title": "竹林民宿",
+            "show": false
+        },
+        {
+            "type": 1,
+            "x": 373,
+            "y": 147,
+            "title": "雅竹园",
+            "show": false
+        },
+        {
+            "type": 2,
+            "x": 110,
+            "y": 265,
+            "show": false,
+            "title": "A",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 116.5,
+            "y": 278,
+            "show": false,
+            "title": "B",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 129,
+            "y": 275,
+            "show": false,
+            "title": "C",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 145,
+            "y": 274,
+            "show": false,
+            "title": "D",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 134.5,
+            "y": 252.5,
+            "show": false,
+            "title": "E",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 135.9,
+            "y": 248.5,
+            "show": false,
+            "title": "F",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 142.9,
+            "y": 248.3,
+            "show": false,
+            "title": "G",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 150.5,
+            "y": 258.3,
+            "show": false,
+            "title": "H",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 152,
+            "y": 240,
+            "show": false,
+            "title": "I",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 161.5,
+            "y": 270,
+            "show": false,
+            "title": "N",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 165,
+            "y": 269,
+            "show": false,
+            "title": "J",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 172.5,
+            "y": 259,
+            "show": false,
+            "title": "K",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 177.5,
+            "y": 262,
+            "show": false,
+            "title": "L",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 159.5,
+            "y": 235,
+            "show": false,
+            "title": "M",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 160.5,
+            "y": 239,
+            "show": false,
+            "title": "O",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 165.5,
+            "y": 249,
+            "show": false,
+            "title": "P",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 159.5,
+            "y": 226,
+            "show": false,
+            "title": "Q",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 173.5,
+            "y": 223,
+            "show": false,
+            "title": "R",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 179,
+            "y": 226,
+            "show": false,
+            "title": "S",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 173,
+            "y": 242,
+            "show": false,
+            "title": "T",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 190,
+            "y": 224,
+            "show": false,
+            "title": "U",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 187.5,
+            "y": 240,
+            "show": false,
+            "title": "V",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 190,
+            "y": 249,
+            "show": false,
+            "title": "W",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 192,
+            "y": 258,
+            "show": false,
+            "title": "X",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 202,
+            "y": 253,
+            "show": false,
+            "title": "Y",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 204,
+            "y": 244,
+            "show": false,
+            "title": "Z",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 194,
+            "y": 233,
+            "show": false,
+            "title": "A1",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 202.5,
+            "y": 225,
+            "show": false,
+            "title": "A2",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 209.5,
+            "y": 235,
+            "show": false,
+            "title": "A3",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 216.5,
+            "y": 244,
+            "show": false,
+            "title": "A4",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 219.5,
+            "y": 237,
+            "show": false,
+            "title": "A5",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 231.5,
+            "y": 235,
+            "show": false,
+            "title": "A6",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 211.5,
+            "y": 226,
+            "show": false,
+            "title": "A7",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 206.5,
+            "y": 215,
+            "show": false,
+            "title": "A8",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 221,
+            "y": 222,
+            "show": false,
+            "title": "A9",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 229.5,
+            "y": 222,
+            "show": false,
+            "title": "B1",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 235.5,
+            "y": 222,
+            "show": false,
+            "title": "B2",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 229.5,
+            "y": 212,
+            "show": false,
+            "title": "B3",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 234.5,
+            "y": 211,
+            "show": false,
+            "title": "B4",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 221,
+            "y": 206,
+            "show": false,
+            "title": "B5",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 244,
+            "y": 227,
+            "show": false,
+            "title": "B6",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 252.7,
+            "y": 218,
+            "show": false,
+            "title": "B7",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 256.7,
+            "y": 218,
+            "show": false,
+            "title": "B8",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 253,
+            "y": 208,
+            "show": false,
+            "title": "B9",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 245.7,
+            "y": 207,
+            "show": false,
+            "title": "C1",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 242,
+            "y": 196,
+            "show": false,
+            "title": "C2",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 260,
+            "y": 186,
+            "show": false,
+            "title": "C3",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 270.5,
+            "y": 208,
+            "show": false,
+            "title": "C4",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 284.5,
+            "y": 199,
+            "show": false,
+            "title": "C5",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 299.5,
+            "y": 190,
+            "show": false,
+            "title": "C6",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 282.3,
+            "y": 173.5,
+            "show": false,
+            "title": "C7",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 306.3,
+            "y": 160.5,
+            "show": false,
+            "title": "C8",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 323.3,
+            "y": 173,
+            "show": false,
+            "title": "C9",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 337.6,
+            "y": 163.5,
+            "show": false,
+            "title": "D1",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 329,
+            "y": 148,
+            "show": false,
+            "title": "D2",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 347.3,
+            "y": 138.5,
+            "show": false,
+            "title": "D3",
+            "isNormal": true
+        },
+        {
+            "type": 2,
+            "x": 349.5,
+            "y": 154,
+            "show": false,
+            "title": "D4",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 358,
+            "y": 141.5,
+            "show": false,
+            "title": "D5",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 364,
+            "y": 143.5,
+            "show": false,
+            "title": "D6",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 366,
+            "y": 128,
+            "show": false,
+            "title": "D7",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 379,
+            "y": 117.5,
+            "show": false,
+            "title": "D8",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 393,
+            "y": 108.5,
+            "show": false,
+            "title": "D9",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 407,
+            "y": 98.5,
+            "show": false,
+            "title": "E1",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 421.5,
+            "y": 89,
+            "show": false,
+            "title": "E2",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 440.5,
+            "y": 76,
+            "show": false,
+            "title": "E3",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 464,
+            "y": 61.5,
+            "show": false,
+            "title": "E4",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 466.5,
+            "y": 67.5,
+            "show": false,
+            "title": "E5",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 470,
+            "y": 80.5,
+            "show": false,
+            "title": "E6",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 483,
+            "y": 70.5,
+            "show": false,
+            "title": "E7",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 496,
+            "y": 84.5,
+            "show": false,
+            "title": "E8",
+            "isNormal": false
+        },
+        {
+            "type": 2,
+            "x": 507,
+            "y": 65.5,
+            "show": false,
+            "title": "E9",
+            "isNormal": false
+        }
+    ]
+}
